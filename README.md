@@ -28,9 +28,9 @@ Superlinear Advisor is a Hermes Agent skill that retrieves and synthesizes answe
    git clone https://github.com/sunyuzheng/lizheng-open-context.git
    ```
 4. Ask anything about Lizheng's views:
-   - "立正怎么评价AI转型？"
-   - "白领工作的本质是什么？"
-   - "立正在视频里怎么提到David Graeber？"
+   - "What's Lizheng's take on AI transformation?"
+   - "What is the essence of white-collar work?"
+   - "How does Lizheng mention David Graeber in videos?"
 
 ## Source priority
 
